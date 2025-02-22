@@ -6,6 +6,9 @@ public class prueba {
 		System.out.println("jidnjndndid");
 		
 		System.out.println("nvfjnfnfnfnfib");
+
+		System.out.println("adios");
+		
 	}
 
 }
