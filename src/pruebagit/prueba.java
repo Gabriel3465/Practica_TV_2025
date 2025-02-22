@@ -9,6 +9,8 @@ public class prueba {
 
 		System.out.println("adios");
 		
+		System.out.println("adio.bfjhvbfjhvhjs");
+		
 	}
 
 }
